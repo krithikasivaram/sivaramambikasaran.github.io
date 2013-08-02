@@ -62,7 +62,7 @@ matrices</a>" accepted for publication in Computational Geosciences.</li><br>
 My research lies in the field of computational and applied mathematics mainly in fast algorithms, approximation theory and numerical linear algebra. The overarching goal of my research is to design innovative, efficient and fast algorithms taking advantage of the underlying structure such as invariance, sparsity, self-similarity, etc., for mathematical problems arising out of physical applications. To be specific, I work on fast low-rank factorizations, fast multipole method and direct solvers for hierarchical matrices with application to inverse problems, filtering, scattering, etc.
 </td>
 <td width = "70%">
-<center><img src="./images/word_cloud.png" alt="word_cloud" align="middle" width="100%"></center>
+<center><img src="./images/word_cloud.png" alt="word_cloud" align="middle" width="80%"></center>
 </td>
 </tr>
 <br>
