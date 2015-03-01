@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on my new hugo site </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/post/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 28 Feb 2015 20:57:48 EST</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Sat, 28 Feb 2015 20:57:48 EST</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>
+
+&lt;h2 id=&#34;toc_0&#34;&gt;Test first post&lt;/h2&gt;
+
+&lt;p&gt;Checking&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
