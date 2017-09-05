@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sivaram Ambikasaran</title>
+    <description>I'm a computational scientist with research interests in numerical linear algebra and approximation theory. Topics on the site include my research, teaching, Blog, etc.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Sep 2017 14:42:09 +0530</pubDate>
+    <lastBuildDate>Tue, 05 Sep 2017 14:42:09 +0530</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Hello world!</title>
+        <description>&lt;p&gt;First blog post to get a flavor of jekyll.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 May 2014 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/blog/2017/08/hello-world/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/08/hello-world/</guid>
+        
+        
+        <category>Site News</category>
+        
+      </item>
+    
+  </channel>
+</rss>
