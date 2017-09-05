@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-This page serves as a directory for the courses I have taught, which is freely available to the public. 
+This page serves as a directory for the courses I am teaching and have taught. 
 
 
 ## Indian Institute of Science
