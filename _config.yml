@@ -1,0 +1,26 @@
+# Site settings
+title: Sivaram Ambikasaran
+email: sivaambi@alumni.stanford.edu
+description: > # this means to ignore newlines until "baseurl:"
+  I'm a computational scientist with research interests in numerical linear algebra and approximation theory. Topics on the site include
+  my research, teaching, Blog, etc.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sivaramambikasaran.com" # the base hostname & protocol for your site
+twitter_username: sivaramambi
+github_username:  sivaramambikasaran
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title/
+jobtitle: "Assistant Professor"
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+google_author: 
+google_site_verification: 
+bing_webmastertools_id: 
+
+plugins:
+  - jekyll-sitemap

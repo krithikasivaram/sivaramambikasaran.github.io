@@ -1,0 +1,16 @@
+<ul class="menu">
+
+    {% for siva in site.data.menu %}
+    {% if siva.subcategories != null %}
+    <li><a href="{{ siva.href }}" class="page-link">{{ siva.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in siva.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ siva.href }}" class="page-link">{{ siva.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
