@@ -32,8 +32,6 @@
   subcategories:
     - subtitle: "Notes"
       subhref: "/blog/notes/"
-    - subtitle: "Non Routine Problem Solving"
-      subhref: "/blog/nrps/"
     - subtitle: "Quotes"
       subhref: "/blog/quotes/"
     - subtitle: "Others"
