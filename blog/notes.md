@@ -10,6 +10,8 @@ permalink: blog/notes/
 <!--	ALGEBRA		-->
 <!--	ALGEBRA		-->
 
+A collection of some of my notes. Some of them were written for teaching purposes, while others were written for entertainment. In case you find any blunders/errors/typos/grammatical mistakes (however small or big it might be), I would greatly appreciate if you could let me know.
+
 #### Algebra
 
 * [Eisenstein's criterion for polynomial irreducibility](https://www.dropbox.com/s/wkk23wl15zi4q07/Eisenstein_criterion.pdf?dl=0)
