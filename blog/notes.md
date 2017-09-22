@@ -32,7 +32,7 @@ permalink: blog/notes/
 #### Analysis
 
 * [Different ways of proving ∫<sub>ℝ</sub>*e*<sup>−*x*<sup>2</sup></sup>*d* *x*](https://www.dropbox.com/s/eupcc9521jzifh9/Error_Integral.pdf?dl=0)
-<li> <a href="https://www.dropbox.com/s/5de5tfewssffmgk/Integrate_power_of_sine_from_0_to_pi_over2.pdf?dl=0">Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\) </a></li>
+* [Evaluating \(\displaystyle \int_0^{\pi/2} \sin^k(t) dt\) or \(\displaystyle \int_0^{\pi/2} \cos^k(t) dt\)](https://www.dropbox.com/s/5de5tfewssffmgk/Integrate_power_of_sine_from_0_to_pi_over2.pdf?dl=0)
 <li> <a href="https://www.dropbox.com/s/4iy9g185qjky8lo/Wallis_formula.pdf?dl=0">Wallis formula: \(\dfrac{\pi}2 = \displaystyle \prod_{n=1}^{\infty} \left(\dfrac{2n}{2n-1} \cdot \dfrac{2n}{2n+1}\right)\) and asymptotic of the central binomial coefficient</a></li>
 <li> <a href="https://www.dropbox.com/s/ixm65p4rxbxpf82/DeMoivre_formula_and_Striling_formula.pdf?dl=0">De Moivre's and Stirling's formula</a> </li>
 <li> <a href="https://www.dropbox.com/s/8g3t62p5myazpnx/POS.pdf?dl=0">An identity on product of sines</a></li>
