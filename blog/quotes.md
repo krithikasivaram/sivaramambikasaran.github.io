@@ -7,9 +7,9 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
-- "Meeting is where minutes are kept and hours are lost"
+- ``Meeting is where minutes are kept and hours are lost"
 
-- "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." -- Oscar Wilde
+- ``Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." -- Oscar Wilde
 
 - ``I could not become anything; neither good nor bad; neither a scoundrel nor an honest man; neither a hero nor an insect. And now I am eking out my days in my corner, taunting myself with the bitter and entirely useless consolation that an intelligent man cannot seriously become anything, that only a fool can become something." -- Fyodor Dostoevsky
 
