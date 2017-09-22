@@ -36,7 +36,6 @@ Packages for academic purposes:
 
 Other Math Links:
 
-* Gauss PhD Thesis
 * [Riemann's 1859 manuscript](http://www.claymath.org/publications/riemanns-1859-manuscript)
 * [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 * [Zeilberger's opinions](http://sites.math.rutgers.edu/~zeilberg/OPINIONS.html)
