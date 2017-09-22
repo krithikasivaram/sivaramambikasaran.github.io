@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-``There is much pleasure to be gained from useless knowledge." -- Bertrand Russell
+<span style="color:lime">``There is much pleasure to be gained from useless knowledge." -- Bertrand Russell</span>
 
 Much (if not all) of this Blog is a collection of useless stuff. A full listing of my blog posts follows.
 
