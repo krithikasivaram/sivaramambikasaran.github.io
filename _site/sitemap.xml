@@ -23,9 +23,6 @@
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/for-students/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/images/</loc>
 </url>
 <url>
@@ -35,12 +32,6 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/for-students/letters-of-recommendation/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/miscellany/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/blog/notes/</loc>
 </url>
 <url>
@@ -48,9 +39,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/others/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/for-students/pi-sigma-alpha/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/quotes/</loc>
