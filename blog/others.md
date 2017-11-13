@@ -43,14 +43,14 @@ Other Math Links:
 
 Illusions:
 
-* [Illusion 1](http://sivaramambikasaran.com/Blog/images/Optical_Illusion_1.png)
-* [Illusion 2](http://sivaramambikasaran.com/Blog/images/Optical_Illusion_2.png)
+* [Illusion 1](http://sivaramambikasaran.com/images/Optical_Illusion_1.png)
+* [Illusion 2](http://sivaramambikasaran.com/images/Optical_Illusion_2.png)
 
 Computer/Coding related stuff:
 
 * [Why use preprocessor #define instead of variables or functions?](https://stackoverflow.com/questions/6004963/why-use-define-instead-of-a-variable)
 * [Installing Ubuntu on Macbook Pro](https://www.engadget.com/2009/09/07/how-to-set-up-ubuntu-linux-on-a-mac-its-easy-and-free/)
-* [Pictorial description of Git](http://sivaramambikasaran.com/Blog/images/MgaV9.png)
+* [Pictorial description of Git](http://sivaramambikasaran.com/images/MgaV9.png)
 * [Using secure copy (scp)](http://www.hypexr.org/linux_scp_help.php)
 * Adjusting brightness on ubuntu:
 
