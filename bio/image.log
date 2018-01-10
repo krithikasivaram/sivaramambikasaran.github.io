@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.12.25)  10 JAN 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.12.25)  10 JAN 2018 17:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,8 +374,7 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-)))
-No file image.aux.
+))) (./image.aux)
 \openout1 = `image.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -390,6 +389,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
+
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -448,22 +448,28 @@ File: ./phd081606s.png Graphic file (type png)
  <use ./phd081606s.png>
 Package pdftex.def Info: ./phd081606s.png used on input line 5.
 (pdftex.def)             Requested size: 602.24852pt x 260.97437pt.
+
+<./bio.png, id=5, 825.0825pt x 584.1825pt>
+File: ./bio.png Graphic file (type png)
+ <use ./bio.png>
+Package pdftex.def Info: ./bio.png used on input line 6.
+(pdftex.def)             Requested size: 371.28369pt x 262.87968pt.
  [1
 
- <./phd081606s.png>] (./image.aux) ) 
+ <./phd081606s.png> <./bio.png>] (./image.aux) ) 
 Here is how much of TeX's memory you used:
- 11765 strings out of 493027
- 240619 string characters out of 6134068
+ 11772 strings out of 493027
+ 240701 string characters out of 6134068
  271760 words of memory out of 5000000
- 15104 multiletter control sequences out of 15000+600000
+ 15108 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,7n,56p,402b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,56p,402b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on image.pdf (1 page, 78077 bytes).
+Output written on image.pdf (1 page, 278755 bytes).
 PDF statistics:
- 13 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

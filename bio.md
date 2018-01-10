@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short Biography
+title: 
 permalink: /bio/
 ---
 <img src="./image.png" width="100%">
