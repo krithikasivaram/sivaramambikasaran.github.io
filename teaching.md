@@ -3,10 +3,12 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+<span style="color:orange">``Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.” – Oscar Wilde</span>
+
+<img src="./image.png" width="100%">
+
 
 This page serves as a directory for the courses I am teaching and have taught. 
-
-<span style="color:cyan">``Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.” – Oscar Wilde</span>
 
 
 ## Indian Institute of Technology Madras

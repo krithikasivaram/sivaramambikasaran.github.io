@@ -3,6 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 ---
+<span style="color:orange">``Research is what I am doing when I don't know what I am doing." -- Wernher von Braun
+</span>
+
+<img src="./image.png" width="100%">
 
 My research and teaching interests include computational and applied mathematics. In particular, my current research focuses on constructing highly accurate fast algorithms leveraging approximation theory and numerical linear algebra.
 
