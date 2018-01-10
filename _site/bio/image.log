@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.12.25)  10 JAN 2018 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.12.25)  10 JAN 2018 16:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,7 +374,8 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (./image.aux)
+)))
+No file image.aux.
 \openout1 = `image.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -389,7 +390,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
-
 ABD: EveryShipout initializing macros
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -443,40 +443,27 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<./resume-cartoon.png, id=4, 250.9375pt x 326.21875pt>
-File: ./resume-cartoon.png Graphic file (type png)
-
-<use ./resume-cartoon.png>
-Package pdftex.def Info: ./resume-cartoon.png used on input line 5.
-(pdftex.def)             Requested size: 213.29787pt x 277.28723pt.
- <./phd022309s.png, id=5, 602.25pt x 281.05pt>
-File: ./phd022309s.png Graphic file (type png)
-
-<use ./phd022309s.png>
-Package pdftex.def Info: ./phd022309s.png used on input line 6.
-(pdftex.def)             Requested size: 602.24852pt x 281.0493pt.
- <./phd091007s.png, id=6, 602.25pt x 260.975pt>
-File: ./phd091007s.png Graphic file (type png)
-
-<use ./phd091007s.png>
-Package pdftex.def Info: ./phd091007s.png used on input line 7.
-(pdftex.def)             Requested size: 647.41531pt x 280.54665pt.
+<./phd081606s.png, id=4, 602.25pt x 260.975pt>
+File: ./phd081606s.png Graphic file (type png)
+ <use ./phd081606s.png>
+Package pdftex.def Info: ./phd081606s.png used on input line 5.
+(pdftex.def)             Requested size: 602.24852pt x 260.97437pt.
  [1
 
- <./resume-cartoon.png> <./phd022309s.png> <./phd091007s.png>] (./image.aux) ) 
+ <./phd081606s.png>] (./image.aux) ) 
 Here is how much of TeX's memory you used:
- 11777 strings out of 493027
- 240853 string characters out of 6134068
+ 11765 strings out of 493027
+ 240619 string characters out of 6134068
  271760 words of memory out of 5000000
- 15112 multiletter control sequences out of 15000+600000
+ 15104 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,56p,402b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,56p,402b,573s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on image.pdf (1 page, 90776 bytes).
+Output written on image.pdf (1 page, 78077 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
+ 13 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

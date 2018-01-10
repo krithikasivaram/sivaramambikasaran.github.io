@@ -7,7 +7,6 @@ permalink: /teaching/
 
 <img src="./image.png" width="100%">
 
-
 This page serves as a directory for the courses I am teaching and have taught. 
 
 
