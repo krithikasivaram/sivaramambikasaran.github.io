@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quotes
+title: 
 permalink: blog/quotes/
 ---
 Most of these quotes have been stolen from different online resources. Some of them are from conversations I had or overheard. A tiny fraction of them are mine.

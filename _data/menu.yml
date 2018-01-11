@@ -10,6 +10,10 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
+    - subtitle: "Spring 2018: Computer Modelling and Simulation"
+      subhref: "http://sivaramambikasaran.com/2018_CMS/"
+    - subtitle: "Spring 2018: Probability, Statistics and Stochastic Process"
+      subhref: "http://sivaramambikasaran.com/2018_PSS/"
     - subtitle: "Spring 2017: Constructive Approximation Theory"
       subhref: "http://sivaramambikasaran.com/CAT_2017/"
     - subtitle: "Dec 2016: Numerical Methods (Short term course)"

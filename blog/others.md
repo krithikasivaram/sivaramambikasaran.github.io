@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Random collection
+title: 
 permalink: blog/others/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 permalink: /research/
 ---
 <span style="color:orange">``Research is what I am doing when I don't know what I am doing." -- Wernher von Braun

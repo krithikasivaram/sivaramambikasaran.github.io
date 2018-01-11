@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: 
 permalink: /cv/
 ---
 <img src="./image.png" width="100%">

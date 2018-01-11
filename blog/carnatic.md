@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Quotes
+title: 
 permalink: blog/carnatic/
 ---
