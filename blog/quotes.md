@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- ``Only the meek, weak and poor keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
+
 - ``Meeting is where minutes are kept and hours are lost"
 
 - ``Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught." -- Oscar Wilde
