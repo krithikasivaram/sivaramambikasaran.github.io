@@ -18,6 +18,7 @@ Personal writing:
 
 Others:
 
+* [PhD comics](http://phdcomics.com/)
 * [Here is a pic of me when I was around 10 years old](https://www.dropbox.com/s/lm9lvn43v332l6p/siva.jpg?dl=0)
 * [My e-signature](https://www.dropbox.com/s/qrei67kf63jp3k4/Signature.png?dl=0)
 * [My academic genealogy](https://www.dropbox.com/s/sb9xpyg1lohhqi3/Genealogy.png?dl=0)
