@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.12.25)  10 JAN 2018 16:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2016.12.25)  23 JAN 2018 21:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -460,7 +460,7 @@ Package pdftex.def Info: ./problems.png used on input line 6.
 File: ./teaching.png Graphic file (type png)
  <use ./teaching.png>
 Package pdftex.def Info: ./teaching.png used on input line 7.
-(pdftex.def)             Requested size: 602.24852pt x 260.97437pt.
+(pdftex.def)             Requested size: 662.47704pt x 287.07338pt.
  [1
 
  <./independent-thinking.jpg> <./problems.png> <./teaching.png>] (./image.aux) 
@@ -472,9 +472,9 @@ Here is how much of TeX's memory you used:
  15112 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,56p,402b,617s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,56p,402b,615s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on image.pdf (1 page, 70135 bytes).
+Output written on image.pdf (1 page, 70136 bytes).
 PDF statistics:
  14 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream

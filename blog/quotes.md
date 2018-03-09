@@ -7,6 +7,8 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- ``"I have never let my schooling interfere with my education." -- Allen Grant (though often it is attributed to Mark Twain)
+
 - ``Only the meek, weak and poor keep talking about fairness, justice and equality." -- Krishnamurti Ramanathan Iyer
 
 - ``Meeting is where minutes are kept and hours are lost"
