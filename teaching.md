@@ -12,8 +12,9 @@ This page serves as a directory for the courses I am teaching and have taught.
 
 ## Indian Institute of Technology Madras
 
-1. Jan-May, 2018: [Computer Modelling and Simulation](http://sivaramambikasaran.com/2018_CMS/)
-2. Jan-May, 2018: [Probability, Statistics and Stochastic Process](http://sivaramambikasaran.com/2018_PSS/)
+3. Aug-Dec, 2018: [Numerical Linear Algebra](http://sivaramambikasaran.com/2018_NLA/)
+2. Jan-May, 2018: [Computer Modelling and Simulation](http://sivaramambikasaran.com/2018_CMS/)
+1. Jan-May, 2018: [Probability, Statistics and Stochastic Process](http://sivaramambikasaran.com/2018_PSS/)
 
 
 ## Indian Institute of Science

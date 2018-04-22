@@ -10,6 +10,8 @@
 - title: "Teaching"
   href: "/teaching/"
   subcategories:
+    - subtitle: "Fall 2018: Numerical Linear Algebra"
+      subhref: "http://sivaramambikasaran.com/2018_NLA/"  
     - subtitle: "Spring 2018: Computer Modelling and Simulation"
       subhref: "http://sivaramambikasaran.com/2018_CMS/"
     - subtitle: "Spring 2018: Probability, Statistics and Stochastic Process"
