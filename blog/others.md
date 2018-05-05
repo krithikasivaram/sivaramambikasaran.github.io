@@ -6,6 +6,7 @@ permalink: blog/others/
 
 Some interesting articles:
 
+* [How Do People Get New Ideas?](https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/)
 * [The Professor and the Politician](https://www.ias.edu/ideas/2016/baas-professor-and-politician)
 * [Honest discussion about caste in India](http://scroll.in/article/802163/the-two-factors-that-prevent-india-from-having-an-honest-discussion-about-caste)
 * [What does it mean to be educated?](http://www.dam.brown.edu/people/documents/Whatdoesitmeantobeeducated.pdf)
