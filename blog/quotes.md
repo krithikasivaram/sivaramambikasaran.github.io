@@ -11,9 +11,7 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 - Nimzowitsch opponent took out a cigarette case and put on the chess table. Nimsowitsch hated cigarette smoke and called the director and filed a complaint.
 
-The director said, ``He has not lit a cigarette and there is no smoke. So your complaint is noted but it is not valid."
-
-``I know", Nimzowitsch replied, ``but he threatens to smoke, and being an older player you know that the threat is often stronger than the execution."
+The director said, ``He has not lit a cigarette and there is no smoke. So your complaint is noted but it is not valid." to which Nimzowitsch replied, ``but he threatens to smoke, and being an older player you know that the threat is often stronger than the execution."
 
 - ``I have never let my schooling interfere with my education." -- Allen Grant (though often it is attributed to Mark Twain)
 
