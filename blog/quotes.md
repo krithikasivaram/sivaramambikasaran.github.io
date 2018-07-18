@@ -7,9 +7,11 @@ Most of these quotes have been stolen from different online resources. Some of t
 
 <span style="color:lime">``The ability to quote is a serviceable substitute for wit." -- W. Somerset Maugham</span>
 
+- ``Real humor contains more inner truth than the most earnest seriousness" -- Nimzowitsch in his book ``My system"
+
 - ``Tactics flow from a superior position" -- Fischer
 
-- Nimzowitsch opponent took out a cigarette case and put on the chess table. Nimsowitsch hated cigarette smoke and called the director and filed a complaint.
+- Nimzowitsch opponent took out a cigarette case and put on the chess table. Nimzowitsch hated cigarette smoke and called the director and filed a complaint.
 
 The director said, ``He has not lit a cigarette and there is no smoke. So your complaint is noted but it is not valid." to which Nimzowitsch replied, ``but he threatens to smoke, and being an older player you know that the threat is often stronger than the execution."
 
